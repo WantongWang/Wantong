@@ -57,8 +57,9 @@ img {
     margin: 10px 0;
 }
 
-.video {
+video {
     max-width: 100%;
+    height: auto;
     display: block;
     margin: 10px auto;
 }
